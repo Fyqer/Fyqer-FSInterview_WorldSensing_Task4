@@ -5,6 +5,7 @@ Project consists of :
 - scripts.js file with js 
 - upgraded MainPage.html 
 -  test files saved as a output from sensers
-
+# Run
+pyhon app.py - flask and virtual env required
 
 
